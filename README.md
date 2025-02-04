@@ -1,3 +1,3 @@
 # CSES-problem-set
 # Vocab:
-lexicographically adv: theo từ điển 
+lexicographically adv ="dictionary order" or "alphabetical order": theo từ điển 
